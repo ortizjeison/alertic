@@ -163,13 +163,20 @@
      inkscape:window-height="718"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="1.2865484"
-     inkscape:cx="227.24124"
-     inkscape:cy="56.374548"
+     inkscape:zoom="0.90972708"
+     inkscape:cx="195.47463"
+     inkscape:cy="128.93867"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
+  <rect
+     style="opacity:1;fill:#8fe673;fill-opacity:1;stroke:#afafaf;stroke-width:4.0710001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect1053"
+     width="597.72333"
+     height="269.71393"
+     x="-83.945541"
+     y="-69.427475" />
   <g
      id="g4204"
      transform="matrix(2.1978219,0,0,2.2012019,847.95377,-1279.2996)"
@@ -204,17 +211,39 @@
          style="fill:#ffffff;fill-opacity:0.53588516;stroke-width:1.3069346"
          inkscape:connector-curvature="0" />
     </g>
-    <text
-       id="text817-9"
-       y="626.82825"
-       x="-359.48276"
+    <g
+       aria-label="Alertic"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.96063232px;line-height:1.25;font-family:'r.madrid uefa ucl 2018 2019';-inkscape-font-specification:'r.madrid uefa ucl 2018 2019, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58547604"
-       xml:space="preserve"><tspan
+       id="text817-9">
+      <path
+         d="m -345.74358,590.35699 h 6.8446 l 12.98977,36.47126 h -7.09441 l -2.24823,-6.49489 h -14.13886 l -2.24823,6.49489 h -7.09441 z m -1.34894,23.48149 h 9.59244 l -4.79622,-13.83909 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
-         y="626.82825"
-         x="-359.48276"
-         id="tspan815-1"
-         sodipodi:role="line">Alertic</tspan></text>
+         id="path1055" />
+      <path
+         d="m -323.18636,589.85738 h 6.79465 v 36.97087 h -6.79465 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1057" />
+      <path
+         d="m -297.96404,627.42777 q -3.44729,0 -6.29504,-1.14909 -2.84776,-1.19906 -4.89615,-3.24744 -1.99842,-2.04839 -3.14752,-4.79622 -1.09913,-2.7978 -1.09913,-5.94532 0,-3.19748 1.14909,-5.99527 1.19906,-2.7978 3.24745,-4.84618 2.04838,-2.04839 4.79622,-3.24745 2.79779,-1.19905 5.99527,-1.19905 3.24744,0 5.99528,1.14909 2.79779,1.09914 4.79622,3.14752 1.99842,1.99843 3.09756,4.74626 1.14909,2.74784 1.14909,5.99528 v 2.54799 h -23.78126 q 0.69945,3.09756 3.0476,4.99607 2.34815,1.8985 5.94532,1.8985 2.84775,0 4.9461,-1.3989 2.09834,-1.3989 3.14752,-3.74705 l 5.54563,3.19748 q -1.89851,3.54721 -5.34579,5.74548 -3.39732,2.1483 -8.29346,2.1483 z m -0.24981,-24.48071 q -3.0476,0 -5.29582,1.64871 -2.19827,1.6487 -3.09756,4.34657 h 16.58693 q -0.74941,-2.94768 -2.89772,-4.4465 -2.14831,-1.54878 -5.29583,-1.54878 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1059" />
+      <path
+         d="m -280.15386,597.60128 h 6.69472 v 4.34657 q 2.04839,-4.34657 7.4941,-4.34657 1.59874,0 2.84775,0.34972 1.29898,0.34973 2.29819,0.89929 l -2.54799,6.39496 q -0.74941,-0.4996 -1.69866,-0.79937 -0.89929,-0.34972 -2.34815,-0.34972 -2.94768,0 -4.49646,1.69866 -1.49882,1.6487 -1.49882,5.44571 v 15.58772 h -6.74468 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1061" />
+      <path
+         d="m -259.63799,597.60128 h 4.99606 v -4.4465 l 6.79465,-4.64634 v 9.09284 h 5.94531 v 6.04523 h -5.94531 v 10.94138 q 0,1.89851 0.19984,3.09756 0.19984,1.1491 0.79937,1.79858 0.64949,0.59953 1.79858,0.79937 1.19906,0.19985 3.14752,0.19985 v 6.345 h -0.94925 q -3.39732,0 -5.69551,-0.59953 -2.24823,-0.59953 -3.59717,-1.99843 -1.34894,-1.44885 -1.94846,-3.74704 -0.54957,-2.34815 -0.54957,-5.8454 v -10.99134 h -4.99606 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1063" />
+      <path
+         d="m -238.68263,597.60128 h 6.79464 v 29.22697 h -6.79464 z m -0.84933,-7.14437 q 0,-1.89851 1.14909,-3.0476 1.1491,-1.19906 3.09756,-1.19906 1.99843,0 3.09756,1.19906 1.1491,1.14909 1.1491,3.0476 0,1.8985 -1.1491,3.0476 -1.09913,1.14909 -3.09756,1.14909 -2.04838,0 -3.14752,-1.14909 -1.09913,-1.1491 -1.09913,-3.0476 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1065" />
+      <path
+         d="m -213.71012,627.42777 q -3.19748,0 -5.99528,-1.19905 -2.74784,-1.19906 -4.79622,-3.24744 -2.04839,-2.04839 -3.24744,-4.79622 -1.1491,-2.7978 -1.1491,-5.94532 0,-3.19748 1.1491,-5.94531 1.19905,-2.7978 3.24744,-4.84618 2.04838,-2.09835 4.79622,-3.24745 2.7978,-1.19905 5.99528,-1.19905 2.44807,0 4.59637,0.69945 2.19827,0.64949 3.99685,1.84854 1.79859,1.19906 3.14752,2.84776 1.34894,1.6487 2.19827,3.64712 l -6.04523,2.548 q -0.99922,-2.39811 -3.09756,-3.79701 -2.04839,-1.44886 -4.74626,-1.44886 -1.84855,0 -3.44729,0.69945 -1.54878,0.69945 -2.74783,1.8985 -1.1491,1.19906 -1.79859,2.84776 -0.64948,1.59874 -0.64948,3.44728 0,1.79859 0.64948,3.44729 0.64949,1.59874 1.79859,2.79779 1.19905,1.19906 2.79779,1.89851 1.59874,0.69944 3.44729,0.69944 2.84775,0 4.84618,-1.49881 2.04838,-1.54878 3.0476,-3.94689 l 6.04523,2.59795 q -0.84933,1.99842 -2.19826,3.69709 -1.34894,1.69866 -3.14752,2.94767 -1.74863,1.19906 -3.94689,1.89851 -2.19827,0.64948 -4.74626,0.64948 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         id="path1067" />
+    </g>
     <g
        style="fill:#ffffff;fill-opacity:1"
        transform="matrix(0.70171665,0,0,0.70171665,-35.325782,403.15514)"
