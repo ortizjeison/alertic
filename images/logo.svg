@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="#ffffff"
-   width="357.25px"
-   height="124px"
-   viewBox="0 0 357.25 124"
+   width="460"
+   height="128"
+   viewBox="0 0 460 128"
    version="1.1"
    id="svg14"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   style="fill:#ffffff">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,6 +125,30 @@
          y="0.0058192746"
          transform="scale(-1,1)" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1959-36">
+      <rect
+         style="opacity:1;fill:#ff6600;fill-opacity:0.45959598;stroke:none;stroke-width:0.41968396;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.58449984;stroke-opacity:1"
+         id="rect1961-75"
+         width="10.984483"
+         height="32.953606"
+         x="-22.74181"
+         y="0.0058192746"
+         transform="scale(-1,1)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1959-0-3">
+      <rect
+         style="opacity:1;fill:#ff6600;fill-opacity:0.45959598;stroke:none;stroke-width:0.41968396;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:4.58449984;stroke-opacity:1"
+         id="rect1961-6-5"
+         width="10.984483"
+         height="32.953606"
+         x="-22.74181"
+         y="0.0058192746"
+         transform="scale(-1,1)" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -138,436 +163,183 @@
      inkscape:window-height="718"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="0.9097271"
-     inkscape:cx="49.884134"
-     inkscape:cy="0.36725705"
+     inkscape:zoom="1.2865484"
+     inkscape:cx="227.24124"
+     inkscape:cy="56.374548"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14" />
   <g
-     id="g4142"
-     transform="matrix(1.8688991,0,0,1.8688991,724.0786,-1246.7549)">
+     id="g4204"
+     transform="matrix(2.1978219,0,0,2.2012019,847.95377,-1279.2996)"
+     style="fill:#ffffff">
     <g
-       style="fill:#c2f1b2;fill-opacity:1"
-       transform="matrix(0.70169248,-0.00582504,0.00582504,0.70169248,-44.038632,491.96791)"
-       id="g2071-3-4">
-      <g
-         id="g1155-4-2-8-1"
-         transform="matrix(-2.5304814,0,0,2.5304696,-320.90455,253.68761)"
-         style="fill:#c2f1b2;fill-opacity:1"
-         clip-path="url(#clipPath1959-3-7)">
-        <g
-           id="g1099-60-5-86-6"
-           style="fill:#c2f1b2;fill-opacity:1">
-          <path
-             id="path1097-8-4-2-9"
-             d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#c2f1b2;fill-opacity:1" />
-        </g>
-        <g
-           id="g1101-66-3-5-4"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1103-2-2-5-2"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1105-6-3-0-6"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1107-8-0-5-71"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1109-55-9-2-2"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1111-6-6-9-5"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1113-0-2-1-5"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1115-5-2-61-5"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1117-4-3-9-3"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1119-3-0-4-6"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1121-7-7-20-3"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1123-4-9-89-16"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1125-59-0-5-5"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1127-1-9-7-1"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1129-57-7-4-2"
-           style="fill:#c2f1b2;fill-opacity:1" />
-      </g>
-      <g
-         id="g1155-4-2-3-5-2"
-         transform="matrix(2.5304735,0,0,2.5304696,-382.46341,253.68761)"
-         style="fill:#c2f1b2;fill-opacity:1"
-         clip-path="url(#clipPath1959-0-1-06)">
-        <g
-           id="g1099-60-5-8-1-3"
-           style="fill:#c2f1b2;fill-opacity:1">
-          <path
-             id="path1097-8-4-8-2-9"
-             d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#c2f1b2;fill-opacity:1" />
-        </g>
-        <g
-           id="g1101-66-3-7-6-8"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1103-2-2-1-3-4"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1105-6-3-5-6-5"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1107-8-0-4-6-3"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1109-55-9-3-7-7"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1111-6-6-1-7-3"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1113-0-2-0-1-4"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1115-5-2-6-1-7"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1117-4-3-4-7-70"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1119-3-0-1-7-7"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1121-7-7-2-1-8"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1123-4-9-8-5-8"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1125-59-0-6-1-8"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1127-1-9-6-9-2"
-           style="fill:#c2f1b2;fill-opacity:1" />
-        <g
-           id="g1129-57-7-3-9-4"
-           style="fill:#c2f1b2;fill-opacity:1" />
-      </g>
-    </g>
-    <g
-       style="fill:#ff6600"
-       transform="matrix(-0.88654014,0,0,0.90866071,-119.65135,360.56455)"
-       id="g1706-8-3">
+       style="fill:#ffffff"
+       transform="matrix(-1.9734639,0,0,2.0227049,140.43438,-147.13922)"
+       id="g1706-8">
       <path
-         id="path1606-0-1-9"
+         id="path1606-0-1"
          d="m 165.95872,385.95064 c -0.33457,0 -0.66915,-0.12808 -0.924,-0.38293 -2.85565,-2.85566 -4.4279,-6.65753 -4.4279,-10.70511 0,-4.04888 1.57225,-7.84944 4.4279,-10.70379 0.51101,-0.51101 1.33699,-0.51101 1.848,0 0.51101,0.51101 0.51101,1.337 0,1.84801 -2.36163,2.36163 -3.66203,5.50611 -3.66203,8.85578 0,3.34968 1.3004,6.49416 3.66203,8.85579 0.51101,0.51101 0.51101,1.337 0,1.84801 -0.25616,0.25616 -0.58942,0.38424 -0.924,0.38424 z"
-         style="fill:#ff6600;stroke-width:1.3069346"
+         style="fill:#ffffff;stroke-width:1.3069346"
          inkscape:connector-curvature="0" />
       <path
-         id="path1608-0-1-77"
+         id="path1608-0-1"
          d="m 171.46091,382.97475 c -0.33457,0 -0.66915,-0.12808 -0.924,-0.38293 -4.36124,-4.36124 -4.36124,-11.45921 0,-15.81914 0.51101,-0.51101 1.337,-0.51101 1.84801,0 0.51101,0.51101 0.51101,1.33699 0,1.84801 -3.34314,3.34313 -3.34314,8.78129 0,12.12312 0.51101,0.51101 0.51101,1.33699 0,1.84801 -0.25485,0.25615 -0.58943,0.38293 -0.92401,0.38293 z"
-         style="fill:#ff944d;fill-opacity:1;stroke-width:1.3069346"
+         style="fill:#ffffff;fill-opacity:0.53588516;stroke-width:1.3069346"
          inkscape:connector-curvature="0" />
     </g>
     <g
-       style="fill:#ff6600"
-       transform="matrix(0.84258624,0,0,0.84258624,-450.53593,385.33343)"
-       id="g1706-1">
+       style="fill:#ffffff"
+       transform="matrix(2.0227049,0,0,2.0227049,-710.67571,-147.13922)"
+       id="g1706">
       <path
-         id="path1606-0-0"
+         id="path1606-0"
          d="m 165.95872,385.95064 c -0.33457,0 -0.66915,-0.12808 -0.924,-0.38293 -2.85565,-2.85566 -4.4279,-6.65753 -4.4279,-10.70511 0,-4.04888 1.57225,-7.84944 4.4279,-10.70379 0.51101,-0.51101 1.33699,-0.51101 1.848,0 0.51101,0.51101 0.51101,1.337 0,1.84801 -2.36163,2.36163 -3.66203,5.50611 -3.66203,8.85578 0,3.34968 1.3004,6.49416 3.66203,8.85579 0.51101,0.51101 0.51101,1.337 0,1.84801 -0.25616,0.25616 -0.58942,0.38424 -0.924,0.38424 z"
-         style="fill:#ff6600;stroke-width:1.3069346"
+         style="fill:#ffffff;stroke-width:1.3069346"
          inkscape:connector-curvature="0" />
       <path
-         id="path1608-0-2"
+         id="path1608-0"
          d="m 171.46091,382.97475 c -0.33457,0 -0.66915,-0.12808 -0.924,-0.38293 -4.36124,-4.36124 -4.36124,-11.45921 0,-15.81914 0.51101,-0.51101 1.337,-0.51101 1.84801,0 0.51101,0.51101 0.51101,1.33699 0,1.84801 -3.34314,3.34313 -3.34314,8.78129 0,12.12312 0.51101,0.51101 0.51101,1.33699 0,1.84801 -0.25485,0.25615 -0.58943,0.38293 -0.92401,0.38293 z"
-         style="fill:#ff944d;fill-opacity:1;stroke-width:1.3069346"
+         style="fill:#ffffff;fill-opacity:0.53588516;stroke-width:1.3069346"
          inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="fill:#8fe673;fill-opacity:1"
-       transform="matrix(0.69631605,-0.08689194,0.08689194,0.69631605,-69.854929,465.04476)"
-       id="g2071-3">
-      <g
-         id="g1155-4-2-8"
-         transform="matrix(-2.5304814,0,0,2.5304696,-320.90455,253.68761)"
-         style="fill:#8fe673;fill-opacity:1"
-         clip-path="url(#clipPath1959-3)">
-        <g
-           id="g1099-60-5-86"
-           style="fill:#8fe673;fill-opacity:1">
-          <path
-             id="path1097-8-4-2"
-             d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#8fe673;fill-opacity:1" />
-        </g>
-        <g
-           id="g1101-66-3-5"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1103-2-2-5"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1105-6-3-0"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1107-8-0-5"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1109-55-9-2"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1111-6-6-9"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1113-0-2-1"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1115-5-2-61"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1117-4-3-9"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1119-3-0-4"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1121-7-7-20"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1123-4-9-89"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1125-59-0-5"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1127-1-9-7"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1129-57-7-4"
-           style="fill:#8fe673;fill-opacity:1" />
-      </g>
-      <g
-         id="g1155-4-2-3-5"
-         transform="matrix(2.5304735,0,0,2.5304696,-382.46341,253.68761)"
-         style="fill:#8fe673;fill-opacity:1"
-         clip-path="url(#clipPath1959-0-1)">
-        <g
-           id="g1099-60-5-8-1"
-           style="fill:#8fe673;fill-opacity:1">
-          <path
-             id="path1097-8-4-8-2"
-             d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
-             inkscape:connector-curvature="0"
-             sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#8fe673;fill-opacity:1" />
-        </g>
-        <g
-           id="g1101-66-3-7-6"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1103-2-2-1-3"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1105-6-3-5-6"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1107-8-0-4-6"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1109-55-9-3-7"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1111-6-6-1-7"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1113-0-2-0-1"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1115-5-2-6-1"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1117-4-3-4-7"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1119-3-0-1-7"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1121-7-7-2-1"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1123-4-9-8-5"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1125-59-0-6-1"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1127-1-9-6-9"
-           style="fill:#8fe673;fill-opacity:1" />
-        <g
-           id="g1129-57-7-3-9"
-           style="fill:#8fe673;fill-opacity:1" />
-      </g>
     </g>
     <text
-       id="text817-9-5"
-       y="717.526"
-       x="-304.60812"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.16765976px;line-height:1.25;font-family:'r.madrid uefa ucl 2018 2019';-inkscape-font-specification:'r.madrid uefa ucl 2018 2019, ';letter-spacing:0px;word-spacing:0px;fill:#61a84b;fill-opacity:1;stroke:none;stroke-width:0.52930838"
+       id="text817-9"
+       y="626.82825"
+       x="-359.48276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.96063232px;line-height:1.25;font-family:'r.madrid uefa ucl 2018 2019';-inkscape-font-specification:'r.madrid uefa ucl 2018 2019, ';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58547604"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#61a84b;fill-opacity:1;stroke-width:0.52930838"
-         y="717.526"
-         x="-304.60812"
-         id="tspan815-1-70"
-         sodipodi:role="line">A</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Samsung Sharp Sans';-inkscape-font-specification:'Samsung Sharp Sans';fill:#ffffff;fill-opacity:1;stroke-width:0.58547604"
+         y="626.82825"
+         x="-359.48276"
+         id="tspan815-1"
+         sodipodi:role="line">Alertic</tspan></text>
     <g
-       style="fill:#61a84b;fill-opacity:1"
-       transform="matrix(0.69980297,0.05178867,-0.05178867,0.69980297,-27.698099,512.78745)"
-       id="g2071-3-8">
+       style="fill:#ffffff;fill-opacity:1"
+       transform="matrix(0.70171665,0,0,0.70171665,-35.325782,403.15514)"
+       id="g2071">
       <g
-         id="g1155-4-2-8-7"
+         id="g1155-4-2"
          transform="matrix(-2.5304814,0,0,2.5304696,-320.90455,253.68761)"
-         style="fill:#61a84b;fill-opacity:1"
-         clip-path="url(#clipPath1959-3-0)">
+         style="fill:#ffffff;fill-opacity:1"
+         clip-path="url(#clipPath1959-36)">
         <g
-           id="g1099-60-5-86-2"
-           style="fill:#61a84b;fill-opacity:1">
+           id="g1099-60-5"
+           style="fill:#ffffff;fill-opacity:1">
           <path
-             id="path1097-8-4-2-6"
+             id="path1097-8-4"
              d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#61a84b;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
         <g
-           id="g1101-66-3-5-5"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1101-66-3"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1103-2-2-5-4"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1103-2-2"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1105-6-3-0-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1105-6-3"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1107-8-0-5-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1107-8-0"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1109-55-9-2-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1109-55-9"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1111-6-6-9-8"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1111-6-6"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1113-0-2-1-4"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1113-0-2"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1115-5-2-61-9"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1115-5-2"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1117-4-3-9-8"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1117-4-3"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1119-3-0-4-3"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1119-3-0"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1121-7-7-20-6"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1121-7-7"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1123-4-9-89-1"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1123-4-9"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1125-59-0-5-2"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1125-59-0"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1127-1-9-7-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1127-1-9"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1129-57-7-4-0"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1129-57-7"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
       <g
-         id="g1155-4-2-3-5-6"
+         id="g1155-4-2-3"
          transform="matrix(2.5304735,0,0,2.5304696,-382.46341,253.68761)"
-         style="fill:#61a84b;fill-opacity:1"
-         clip-path="url(#clipPath1959-0-1-0)">
+         style="fill:#ffffff;fill-opacity:1"
+         clip-path="url(#clipPath1959-0-3)">
         <g
-           id="g1099-60-5-8-1-1"
-           style="fill:#61a84b;fill-opacity:1">
+           id="g1099-60-5-8"
+           style="fill:#ffffff;fill-opacity:1">
           <path
-             id="path1097-8-4-8-2-8"
+             id="path1097-8-4-8"
              d="m 20.138,26.557 v 2.104 H 4.189 V 3.508 h 15.949 v 4.2851797 l 1.539,-0.018 V 2.211 C 21.678,0.994 20.683,0 19.465,0 H 4.863 C 3.646,0 2.65,0.994 2.65,2.211 v 28.331 c 0,1.216 0.996,2.212 2.213,2.212 h 14.602 c 1.218,0 2.213,-0.996 2.213,-2.212 V 26.573 Z M 9.829,1.595 H 14.5 c 0.148,0 0.268,0.12 0.268,0.271 0,0.148 -0.119,0.267 -0.268,0.267 H 9.829 C 9.681,2.133 9.561,2.015 9.561,1.866 9.561,1.715 9.68,1.595 9.829,1.595 Z m 2.336,30.053 c -0.611,0 -1.105,-0.496 -1.105,-1.105 0,-0.611 0.494,-1.104 1.105,-1.104 0.611,0 1.107,0.492 1.107,1.104 0,0.609 -0.497,1.105 -1.107,1.105 z"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="ccccccccsssssssccssssssssssss"
-             style="fill:#61a84b;fill-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
         <g
-           id="g1101-66-3-7-6-9"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1101-66-3-7"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1103-2-2-1-3-9"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1103-2-2-1"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1105-6-3-5-6-1"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1105-6-3-5"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1107-8-0-4-6-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1107-8-0-4"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1109-55-9-3-7-1"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1109-55-9-3"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1111-6-6-1-7-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1111-6-6-1"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1113-0-2-0-1-2"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1113-0-2-0"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1115-5-2-6-1-6"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1115-5-2-6"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1117-4-3-4-7-7"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1117-4-3-4"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1119-3-0-1-7-3"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1119-3-0-1"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1121-7-7-2-1-5"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1121-7-7-2"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1123-4-9-8-5-0"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1123-4-9-8"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1125-59-0-6-1-4"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1125-59-0-6"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1127-1-9-6-9-8"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1127-1-9-6"
+           style="fill:#ffffff;fill-opacity:1" />
         <g
-           id="g1129-57-7-3-9-5"
-           style="fill:#61a84b;fill-opacity:1" />
+           id="g1129-57-7-3"
+           style="fill:#ffffff;fill-opacity:1" />
       </g>
     </g>
   </g>
