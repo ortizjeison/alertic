@@ -1,7 +1,7 @@
 ---
 name: Alejandro Trujillo
 position: Desarrollador de producto II
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
+image_path: "{{ site.baseurl }}/images/alejandro.png"
 twitter:
 blurb: ...
 ---
