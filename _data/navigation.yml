@@ -6,3 +6,7 @@
   link: /blog/
   new_window: false
   highlight: false
+- name: Términos y Condiciones
+  link: /legal/
+  new_window: false
+  highlight: false
